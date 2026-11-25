@@ -6,6 +6,10 @@
 .div1{
     display: flex;
 }
+body{
+    background-color: aliceblue;
+    overflow-x: hidden;
+}
 .p{
     display: flex;
     gap: 20px;
@@ -30,4 +34,60 @@ margin-left: 400px;
 }
 .ppp{
   
+}
+.div3{
+  
+}
+.img{
+    width: 400px;
+    height: 30px;
+    margin-left: 300px;
+    position: relative;
+    top: 100px;
+
+}
+.border{
+    width: 250px;
+    height: 200px;
+    border-radius: 4px;
+    box-shadow: 0px 5px 20px rgba(0,0,0,0.30);
+   position: relative;
+   top: 150px;
+   left: 100px;
+}
+.borderho{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    right: 80px;
+    
+    
+}
+.div4{
+    position: relative;
+    top: 350px;
+
+}
+.ff{
+border-radius: 4px;
+box-shadow: 0px 5px 20px rgba(0,0,0,0.30);
+width: 300px;
+height: 200px;
+}
+.ffk{
+    display: flex;
+    justify-content: space-evenly;
+}
+.xx{
+    position: relative;
+    top: 600px;
+    left: 100px;
+
+}
+.xx1{
+    display: flex;
+    width: 300px;
+gap: 70px;
+position: relative;
+right: 20px;
 }
